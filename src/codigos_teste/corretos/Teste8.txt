@@ -1,0 +1,11 @@
+init 
+a, b is integer;
+begin
+if ( a > b) begin
+write ("O maior numero e: ");
+read (a);
+end else begin
+write ("O menor numero e: ");
+read (b);
+end
+stop

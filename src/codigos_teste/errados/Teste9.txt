@@ -1,0 +1,6 @@
+% variavel a nao declarada%
+init 
+b is integer;
+begin
+a := "Marcos";
+stop

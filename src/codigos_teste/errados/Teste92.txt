@@ -1,0 +1,9 @@
+%erro atribuição tipos diferentes%
+init
+a, c is integer;
+b is string;
+begin
+a := 2;
+b := "hi";
+a := b;
+stop

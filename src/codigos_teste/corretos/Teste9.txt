@@ -1,0 +1,6 @@
+init 
+b is integer;
+a is string;
+begin
+a := "Marcos";
+stop
